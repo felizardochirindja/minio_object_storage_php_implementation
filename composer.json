@@ -1,0 +1,6 @@
+{
+    "require": {
+        "coraxster/flysystem-aws-s3-v3-minio": "^1.0",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
